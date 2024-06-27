@@ -1,0 +1,29 @@
+Soal 1
+Mencari murid pada table yang berusia 15 Tahun.
+
+Soal 2
+Mencari nama dan nilai murid pada kelas 9B.
+
+Soal 3
+Mengurutkan nilai pada table students dari yang tertinggi sampai terendah dengan menggunakan perintah Descending (DESC).
+
+Soal 4
+Mengnhitung total murid pada setiap kelas dengan menggunakan fungsi COUNT.
+
+Soal 5
+Menghitung rata-rata nilai pada semua kelas yang ada pada tabel students dan digabungkan menggunakan klausa GROUP BY dan menetapkan batas data dengan menggunakan  fungsi LIMIT.
+
+Soal 6
+Mencari data unik pada setiap kelas dengan menggunakan klausa GROUP BY untuk menggabungkan data dan klausa HAVING untuk menentukan hasil yang akan muncul digabungkan dengan COUNT untuk menghitung data yang memiliki hasil 1.
+
+Soal 7
+Mencari murid yang mencaftar lebih awal dengan menggunakan klausa ORDER BY untuk mengurutkan data berdasarkan tanggal dan menggunakan LIMIT untuk membatasi data yang akan muncul hanya ada 5 saja.
+
+Soal 8
+Mencari nilai murid pada table students dengan kondisi nilai lebih besar dari 80 dan memiliki umur lebih besar dari 14 tahun.
+
+Soal 9
+Mencari nilai rata-rata dari tabel students yang memiliki umut 16 Tahun.
+
+Soal 10
+Mencari nilai murid pada table students yang memiliki kondisi nilai murid tersebut harus di kelas 8A dengan menggunakan klausa ORDER BY dengan nilai tertinggi dan diberikan batas hanya 1 saja.
